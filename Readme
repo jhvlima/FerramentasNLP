@@ -1,0 +1,14 @@
+Este diretório 'Unitex_ambiente' contén tudo necessario para fazer o Unitex e os scripts de NLP funcionar. 
+
+Executar o script installUnitex irá:
+ 	- criar um diretório "Ferramentas"
+ 	- descompactar as ferramentas opennlp, java, python, mallet, 
+ 	- atualizar o path do java para o unitex, usando uma variável de ambiente no .bashrc,
+ 	- instalar o unitex,
+	- definir o workspace do Unitex.
+	
+Ainda será necessário:
+	- atualizar os paths do unitex, python, opennlp e unitex dentro dos scripts de NLP. usando o .config
+
+Detalhes a se pensar:
+	- se tiver mais de um java instalado, tem que escolher usar o que funciona (recém instalado)
