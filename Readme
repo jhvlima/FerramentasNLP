@@ -1,4 +1,4 @@
-Este diretório 'Unitex_ambiente' contén tudo necessario para fazer o Unitex e os scripts de NLP funcionar. 
+Este diretório contén tudo necessario para fazer o Unitex e os scripts de NLP funcionar. 
 
 Executar o script installUnitex irá:
  	- criar um diretório "Ferramentas"
